@@ -4,7 +4,7 @@ public class assignment_Q2{
 
     public static int search(int arr[],int target)
     {
-        
+
          //find shift
         int n=arr.length;
         int left=0;
